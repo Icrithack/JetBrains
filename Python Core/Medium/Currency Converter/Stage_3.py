@@ -1,3 +1,5 @@
+#  https://hyperskill.org/projects/157/stages/819/implement
+
 class CurrencyConverter:
     def __init__(self):
         self.conicoin = input('Please, enter the number of conicoins you have: ')

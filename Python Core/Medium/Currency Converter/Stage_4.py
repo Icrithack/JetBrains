@@ -1,3 +1,5 @@
+#  https://hyperskill.org/projects/157/stages/820/implement
+
 class CurrencyConverter:
     def __init__(self):
         self.conicoin = float(input())
